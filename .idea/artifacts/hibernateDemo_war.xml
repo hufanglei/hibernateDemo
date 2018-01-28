@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hibernateDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hibernateDemo.war">
+      <element id="artifact" artifact-name="hibernateDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
